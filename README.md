@@ -5,7 +5,7 @@ An application that let's you build your own team with id's, e-mails, and classi
 # Table of Contents
 1. [User Story](#User-Story)
 2. [Usage](#Usage)
-3. [Installation] (#Installation)
+3. [Installation](#Installation)
 4. [Contributors](#Contributors)
 5. [Links](#Links)
 
